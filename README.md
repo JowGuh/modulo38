@@ -10,6 +10,10 @@ Assista ao vídeo abaixo para ver o funcionamento completo do app:
 
 
 
+https://github.com/user-attachments/assets/e8316330-ef9c-4003-99c8-4eae14271c07
+
+
+
 ---
 
 ## 🧠 Funcionalidades
